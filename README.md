@@ -6,9 +6,7 @@
 
 
 
-<img src="./img/aws-certified-ai-practitioner.png" width="10%" height="10%" />
-
-<img src="./img/ckad.svg" width="10%" height="10%" />
+<img src="./img/aws-certified-ai-practitioner.png" width="10%" height="10%" /><img src="./img/ckad.svg" width="10%" height="10%" />
 
 
 
